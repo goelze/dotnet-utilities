@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Oelze.Garrett.Utilities</RootNamespace>
+    <PackageId>Oelze.Garrett.Utilities</PackageId>
+    <Authors>Garrett Oelze</Authors>
+    <PackageLicenseUrl>https://github.com/goelze/dotnet-utilities/blob/main/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/goelze/dotnet-utilities</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
+  </ItemGroup>
+
+</Project>
