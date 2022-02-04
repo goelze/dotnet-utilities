@@ -7,9 +7,12 @@
     <RootNamespace>Oelze.Garrett.Utilities</RootNamespace>
     <PackageId>Oelze.Garrett.Utilities</PackageId>
     <Authors>Garrett Oelze</Authors>
-    <PackageLicenseUrl>https://github.com/goelze/dotnet-utilities/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/goelze/dotnet-utilities</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Title>.NET Utilities</Title>
+    <Description>A growing collection of utilities I want to share between my projects</Description>
   </PropertyGroup>
 
   <ItemGroup>
